@@ -81,9 +81,9 @@ Buscando me desenvolver e crescer no mundo da programação
 
 <div align="center">
 
-> “A tecnologia move o mundo.” — Steve Jobs
+> “O amor é a única verdade que dá sentido à vida.” — Clarisse Lispector
 
 </div>
 ```
 
-Só substituir **`SEUUSUARIO`** pelo seu nome de usuário do GitHub ✨
+
