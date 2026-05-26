@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Rebeka Vitória  
+# 👋 Olá, eu sou Rebeka Vitoria  
 
 💡 Estou inciando no mundo da programação  
 🚀 Aprendendo front end
