@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Rebeka Vitoria  
 
 💡 Estou iniciando no mundo da programação  
-🚀 🚀 Atualmente iniciando no mundo da programação e realizando um curso de **Programação Front-End pelo PROA – Projeto Transforme-se**.
+🚀 Atualmente iniciando no mundo da programação e realizando um curso de **Programação Front-End pelo PROA – Projeto Transforme-se**.
 
 
 ---
