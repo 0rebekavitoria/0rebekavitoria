@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Rebeka Vitoria  
 
-💡 Estou inciando no mundo da programação  
-🚀 Aprendendo front end
+💡 Estou iniciando no mundo da programação  
+🚀 Aprendendo Front End
 
 ---
 
